@@ -1,0 +1,25 @@
+{
+    "name": "Willie Newton",
+    "age": 76,
+    "address": {
+        "street": "Pacheco Terrace",
+        "city": "East Glennside",
+        "state": "Kentucky",
+        "zip": "83151"
+    },
+    "contact": {
+        "phone": "(929)520-6328x645",
+        "servicePhone": "800219135"
+    },
+    "birthday": "1949-04-10",
+    "ip": "11.43.60.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Director institution hear money apply. Training step effect possible unit occur.\nCup because health note.",
+        "bio": "Affect argue public drop stage relationship probably. Bad short section national. Southern season reach approach we.\nAgency watch writer interview project admit own. Road sound kitchen picture."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
