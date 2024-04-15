@@ -1,0 +1,25 @@
+{
+    "name": "Amy Rivera",
+    "age": 115,
+    "address": {
+        "street": "Richard Turnpike",
+        "city": "Davidland",
+        "state": "Idaho",
+        "zip": "80300"
+    },
+    "contact": {
+        "phone": "(862)227-4478",
+        "servicePhone": "800144246"
+    },
+    "birthday": "1910-23-07",
+    "ip": "177.212.107.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy move employee challenge either. Sit heavy huge American. Expect year first.",
+        "bio": "Natural cultural real. Choose team action full responsibility capital draw compare.\nRepublican thus worker window test. Source price just service adult avoid anything."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
