@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Williams",
+    "age": 73,
+    "address": {
+        "street": "Robert Light",
+        "city": "South Danaview",
+        "state": "New York",
+        "zip": "91009"
+    },
+    "contact": {
+        "phone": "8189414898",
+        "servicePhone": "800123785"
+    },
+    "birthday": "1952-11-04",
+    "ip": "92.203.234.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Section with put letter. Even word name exactly room commercial.\nGreen institution happen by break thing. Behavior and town part require. International quite force responsibility.",
+        "bio": "Various else order nice policy rather through. Describe thought trade marriage customer fire until.\nAgent worry final foreign exactly. Share writer gun both."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
