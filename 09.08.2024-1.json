@@ -1,0 +1,25 @@
+{
+    "name": "Bernard Cox",
+    "age": 49,
+    "address": {
+        "street": "Peters Lights",
+        "city": "Ellischester",
+        "state": "Missouri",
+        "zip": "57454"
+    },
+    "contact": {
+        "phone": "759.260.0530",
+        "servicePhone": "800884663"
+    },
+    "birthday": "1976-08-08",
+    "ip": "98.234.42.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor court sister recent left live. Time nor power turn decade. Best general tough fact state.",
+        "bio": "Even economy with television across. Often will occur cultural thousand call increase. Stand radio popular miss."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
