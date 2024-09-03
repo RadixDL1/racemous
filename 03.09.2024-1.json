@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Cervantes DVM",
+    "age": 20,
+    "address": {
+        "street": "Melissa Crossroad",
+        "city": "East Bridget",
+        "state": "Delaware",
+        "zip": "05707"
+    },
+    "contact": {
+        "phone": "(734)867-9661",
+        "servicePhone": "800844107"
+    },
+    "birthday": "2005-21-09",
+    "ip": "2.222.57.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Put rather old color. Direction leg explain second soon military coach. Or level quality source something very.\nInterview future citizen energy although notice.",
+        "bio": "Wife per democratic do field skill result. Mission become miss activity rate yard. Method or light according control customer possible."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
