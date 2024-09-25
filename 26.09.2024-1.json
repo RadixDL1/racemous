@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Sanford",
+    "age": 46,
+    "address": {
+        "street": "Virginia Centers",
+        "city": "West Stephanie",
+        "state": "Louisiana",
+        "zip": "86253"
+    },
+    "contact": {
+        "phone": "(881)482-6150",
+        "servicePhone": "800518037"
+    },
+    "birthday": "1979-02-11",
+    "ip": "39.234.144.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime phone back hotel. Mission already in property million person decade. Wife media collection by. Carry represent later it everything common event various.",
+        "bio": "Certainly anyone indicate nation special. Such painting happy foreign run tonight. Shoulder current event hand actually majority."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
