@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Banks",
+    "age": 96,
+    "address": {
+        "street": "Brianna Hill",
+        "city": "Armstrongview",
+        "state": "Arkansas",
+        "zip": "23303"
+    },
+    "contact": {
+        "phone": "+1-459-525-6610",
+        "servicePhone": "800270164"
+    },
+    "birthday": "1929-01-12",
+    "ip": "30.88.133.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Resource decision message forget try hour. Process explain this table commercial mission. Side factor he represent bad research.\nMention game account mother some. Situation kid dream I sit occur its.",
+        "bio": "Accept kind black give. To throw compare safe. City size second black.\nWill economic senior move scene help course."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
