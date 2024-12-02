@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Jimenez",
+    "age": 17,
+    "address": {
+        "street": "Linda Avenue",
+        "city": "Aprilfort",
+        "state": "Iowa",
+        "zip": "71511"
+    },
+    "contact": {
+        "phone": "644.325.5488",
+        "servicePhone": "800468908"
+    },
+    "birthday": "2008-12-11",
+    "ip": "38.157.228.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Little anything their street school Congress blood. Garden enough standard sound make member. Current building fly.",
+        "bio": "International heart line determine into hold owner. Discuss well born and."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
