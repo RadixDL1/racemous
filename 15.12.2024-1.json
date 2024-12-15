@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jessica Reed",
+    "age": 1,
+    "address": {
+        "street": "Jeremy Brook",
+        "city": "Christinabury",
+        "state": "Connecticut",
+        "zip": "07178"
+    },
+    "contact": {
+        "phone": "283.806.5680x880",
+        "servicePhone": "800143092"
+    },
+    "birthday": "2024-18-09",
+    "ip": "75.178.204.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Against perhaps whom open television.\nDeal old wind above impact gun.\nSince hard story thus red arrive treatment. Wish perhaps choose standard notice.",
+        "bio": "Like seat thus size newspaper. And between both story within.\nWeek great clear entire baby popular. Him help system example some image."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
