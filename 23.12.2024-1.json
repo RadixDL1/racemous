@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Robinson",
+    "age": 113,
+    "address": {
+        "street": "Sherman View",
+        "city": "Warnerland",
+        "state": "Montana",
+        "zip": "77964"
+    },
+    "contact": {
+        "phone": "7534867032",
+        "servicePhone": "800389014"
+    },
+    "birthday": "1912-09-01",
+    "ip": "51.222.185.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond adult while fish you tree star. Movement pick necessary news protect medical beyond response.\nPattern bill network three take. Example serious option really child care. Teacher will too.",
+        "bio": "If identify scientist. Choose improve stage crime town. Lawyer meet about able site wish often bag."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
