@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Khan",
+    "age": 45,
+    "address": {
+        "street": "Cabrera Oval",
+        "city": "Michaelview",
+        "state": "Michigan",
+        "zip": "73381"
+    },
+    "contact": {
+        "phone": "+1-941-521-5187x3988",
+        "servicePhone": "800164142"
+    },
+    "birthday": "1980-16-03",
+    "ip": "213.41.193.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Government far speak option clearly north crime but. Cover clearly final color.\nBelieve general record see career organization. Son fire every vote nor. Something building safe bad.",
+        "bio": "She day executive trial travel American civil. Less deal cause represent if quickly series. Majority billion know be ok street here anyone. Five attention morning carry college response."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
