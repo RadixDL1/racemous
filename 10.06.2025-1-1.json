@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Diaz",
+    "age": 89,
+    "address": {
+        "street": "Rachel Mission",
+        "city": "Frostton",
+        "state": "Delaware",
+        "zip": "49723"
+    },
+    "contact": {
+        "phone": "001-659-484-2696x24951",
+        "servicePhone": "800257077"
+    },
+    "birthday": "1936-16-01",
+    "ip": "26.196.137.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency available she main mouth fast answer. Probably trial wonder. Skin situation herself manager new vote join.",
+        "bio": "Make order whom body fine director indeed because. Design matter it everything.\nShoulder measure as per per late stay outside. Article beautiful school."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
