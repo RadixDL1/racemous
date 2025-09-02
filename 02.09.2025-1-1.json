@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Sanders",
+    "age": 78,
+    "address": {
+        "street": "Trujillo Expressway",
+        "city": "Petersonburgh",
+        "state": "Colorado",
+        "zip": "31147"
+    },
+    "contact": {
+        "phone": "(829)307-3730x5729",
+        "servicePhone": "800407742"
+    },
+    "birthday": "1947-13-04",
+    "ip": "152.233.230.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera lawyer article hold hope least particular. Management art even chance discussion not.\nCause design draw candidate as. Physical clear partner heart.\nSpend check all respond fine model.",
+        "bio": "Official which six international rate property. Always arm executive fast executive serve half. Policy contain analysis always control.\nServe most have. Activity also be market drop on."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
