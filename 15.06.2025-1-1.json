@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Taylor",
+    "age": 78,
+    "address": {
+        "street": "Donna Plains",
+        "city": "Collinsburgh",
+        "state": "Missouri",
+        "zip": "74601"
+    },
+    "contact": {
+        "phone": "+1-633-313-2954x3091",
+        "servicePhone": "800759659"
+    },
+    "birthday": "1947-04-06",
+    "ip": "145.96.123.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive pattern PM if too test. Kid camera exist believe reveal them field. Effort image action hold.",
+        "bio": "There law relate others less job power. Development million pretty beyond send put table. Coach ok bit.\nFine now instead hospital. Across born stop anything those see. Business meet mouth ball."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

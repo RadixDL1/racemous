@@ -1,0 +1,25 @@
+{
+    "name": "Marissa Bates",
+    "age": 9,
+    "address": {
+        "street": "Tiffany Summit",
+        "city": "East Laurie",
+        "state": "Florida",
+        "zip": "78065"
+    },
+    "contact": {
+        "phone": "216.587.5235x84573",
+        "servicePhone": "800728740"
+    },
+    "birthday": "2016-26-07",
+    "ip": "72.247.142.247",
+    "foo": "bar",
+    "profile": {
+        "about": "North person low think indeed gun ready. Environment west write too large serious media.\nEnjoy sort experience then. Move learn receive at two.",
+        "bio": "Debate determine join. Fact a out far pick billion international that.\nEntire threat expect quickly big civil nothing local."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
