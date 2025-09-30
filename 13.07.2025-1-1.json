@@ -1,0 +1,25 @@
+{
+    "name": "Lance Carroll",
+    "age": 23,
+    "address": {
+        "street": "Roger Trafficway",
+        "city": "Martinborough",
+        "state": "Wyoming",
+        "zip": "19123"
+    },
+    "contact": {
+        "phone": "(293)555-1134x71938",
+        "servicePhone": "800163054"
+    },
+    "birthday": "2002-03-10",
+    "ip": "54.62.54.74",
+    "foo": "bar",
+    "profile": {
+        "about": "My leave site brother. Red issue air talk owner experience. Effect toward think herself as buy recognize.",
+        "bio": "Their wear commercial score operation. Tonight event field range.\nWhether range month should world same. Teach here deal. Federal capital purpose."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
