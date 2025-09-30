@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Nguyen",
+    "age": 86,
+    "address": {
+        "street": "Jacqueline Springs",
+        "city": "Lake Ryanburgh",
+        "state": "Wisconsin",
+        "zip": "07475"
+    },
+    "contact": {
+        "phone": "457-571-0623x7883",
+        "servicePhone": "800063239"
+    },
+    "birthday": "1939-07-09",
+    "ip": "206.184.50.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Region lawyer officer serious first plan. Present among sport. Room part old.",
+        "bio": "Police hot address probably usually. Return other surface much employee long."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
