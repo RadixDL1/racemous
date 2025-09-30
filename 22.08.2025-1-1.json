@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda White",
+    "age": 72,
+    "address": {
+        "street": "Cunningham Canyon",
+        "city": "Zimmermanberg",
+        "state": "Wisconsin",
+        "zip": "81098"
+    },
+    "contact": {
+        "phone": "844.914.1849",
+        "servicePhone": "800488200"
+    },
+    "birthday": "1953-05-03",
+    "ip": "51.125.12.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat citizen rise edge site. Act agency page force shoulder.\nBefore move it see perhaps. Than recently public artist wear. Treatment recent fear away back.",
+        "bio": "Trip network international state company. Born expect beyond blood. Country individual law head save medical.\nHospital scientist me."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
