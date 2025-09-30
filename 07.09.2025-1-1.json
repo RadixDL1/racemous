@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Foster MD",
+    "age": 6,
+    "address": {
+        "street": "Adam Mission",
+        "city": "New Elizabeth",
+        "state": "Montana",
+        "zip": "59571"
+    },
+    "contact": {
+        "phone": "588.993.8082x5464",
+        "servicePhone": "800981517"
+    },
+    "birthday": "2019-29-01",
+    "ip": "149.199.146.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Special off require thus medical. Can gas wife police.\nMaterial rule food allow case yard face. Dinner popular front relate. Either college unit wind large.",
+        "bio": "Value model likely throw decision about. Travel never ok instead. Woman guess even keep.\nAfter name stage state. Later direction type detail tough put really determine."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

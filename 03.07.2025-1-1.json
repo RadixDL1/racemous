@@ -1,0 +1,25 @@
+{
+    "name": "Shirley Randall",
+    "age": 102,
+    "address": {
+        "street": "Torres Shoal",
+        "city": "Murphyview",
+        "state": "Maine",
+        "zip": "30197"
+    },
+    "contact": {
+        "phone": "+1-380-912-3571",
+        "servicePhone": "800854334"
+    },
+    "birthday": "1923-24-04",
+    "ip": "52.124.40.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Society decision street himself fire. Entire Mr analysis.\nMain unit story keep hear right such. Ability if front your important happen.",
+        "bio": "Ago place property woman. Month democratic detail whole feeling.\nAmong itself begin realize. Ever recent couple executive country western word firm. Catch from radio marriage power."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

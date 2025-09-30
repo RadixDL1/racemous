@@ -1,0 +1,25 @@
+{
+    "name": "James Alvarez",
+    "age": 34,
+    "address": {
+        "street": "Leslie Park",
+        "city": "Mannville",
+        "state": "Arkansas",
+        "zip": "78270"
+    },
+    "contact": {
+        "phone": "799.971.1685",
+        "servicePhone": "800943222"
+    },
+    "birthday": "1991-29-10",
+    "ip": "178.231.72.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Try major production world. Story watch threat try north example. See news nature specific artist strong central station.",
+        "bio": "Including knowledge arm lot admit through these.\nParticular nothing might public these. Owner front note show mention car add."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
