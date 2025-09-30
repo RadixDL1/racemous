@@ -1,0 +1,25 @@
+{
+    "name": "Mr. William King",
+    "age": 47,
+    "address": {
+        "street": "Jennifer Rue",
+        "city": "Lake Michelleton",
+        "state": "Louisiana",
+        "zip": "07714"
+    },
+    "contact": {
+        "phone": "851.375.5804x71632",
+        "servicePhone": "800427646"
+    },
+    "birthday": "1978-12-05",
+    "ip": "165.120.236.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Last anyone response dark marriage. Recent present middle country move. Red air member by tax third indeed station.",
+        "bio": "Name tend each front attack age. In together total and lead.\nOld story their. Already affect speak truth third building husband. Owner before PM create after."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

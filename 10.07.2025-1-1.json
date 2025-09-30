@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Humphrey",
+    "age": 69,
+    "address": {
+        "street": "Alexandra Walk",
+        "city": "Bradleymouth",
+        "state": "Michigan",
+        "zip": "65958"
+    },
+    "contact": {
+        "phone": "001-647-380-8902x4765",
+        "servicePhone": "800718543"
+    },
+    "birthday": "1956-04-05",
+    "ip": "213.240.6.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Large country sign dark product hundred.\nGood industry American each ball. Foreign west answer. Both another admit recent nor strong our.",
+        "bio": "Might issue decade well effect interesting hard sit. Matter heavy player beyond method see. Gun property scene around now knowledge."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
