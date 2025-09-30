@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Smith",
+    "age": 15,
+    "address": {
+        "street": "Marvin Common",
+        "city": "West Joseph",
+        "state": "Nebraska",
+        "zip": "18368"
+    },
+    "contact": {
+        "phone": "001-803-371-2703x7555",
+        "servicePhone": "800505281"
+    },
+    "birthday": "2010-29-12",
+    "ip": "151.176.54.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Through speech effort easy purpose method suddenly drug. Agreement cell almost agreement week.\nDrop war knowledge treatment break. Near price listen world accept ever mention station.",
+        "bio": "College face bring try pressure baby. Plan set husband main especially always.\nKnow answer network source become war say. Nature director which quickly town."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
